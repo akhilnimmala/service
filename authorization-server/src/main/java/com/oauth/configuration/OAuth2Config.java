@@ -1,4 +1,4 @@
-package com.exteso.blog.oauth2.stepbystep.configuration;
+package com.oauth.configuration;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

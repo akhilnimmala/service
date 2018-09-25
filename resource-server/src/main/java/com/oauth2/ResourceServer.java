@@ -1,4 +1,4 @@
-package com.exteso.blog.oauth2.stepbystep;
+package com.oauth2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
